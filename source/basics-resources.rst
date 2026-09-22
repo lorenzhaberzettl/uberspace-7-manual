@@ -34,7 +34,7 @@ You may check your current storage usage with the ``quota`` command:
 Find files which use a lot of storage
 -------------------------------------
 
-The beforementioned ``quota`` command calculates the needed storage for files that are owned by your user anywhere on the system not only within your home folder.
+The aforementioned ``quota`` command calculates the needed storage for files that are owned by your user anywhere on the system not only within your home folder.
 To find these files you should check the most common paths where files can be stored for your user:
 
 .. code-block:: console
