@@ -30,7 +30,7 @@ Mailing
 
 - Webmail for U7 is available at the central web address `https://webmail.uberspace.de <https://webmail.uberspace.de>`_. It is no longer possible to use an addressbook at this webmailer, therefore please install your own client from the `Uberspace Lab <https://lab.uberspace.de/tags/webmail>`_.
 
-- Regarding spam management, DSPAM and SpamAssassin is currently not available on U7, training the spam filter with `ham` and `spam` is not possible for users yet. Check the manual page for current :doc:`spam management <mail-filters>`.
+- Regarding spam management, DSPAM and SpamAssassin are currently not available on U7, training the spam filter with `ham` and `spam` is not possible for users yet. Check the manual page for current :doc:`spam management <mail-filters>`.
 
 - There is no longer native support for domain namespaces, each mail user will work with every connected mail domain, to avoid this you have to create separate uberspace accounts for each domain. We documented how you can resolve namespaces migrated from U6 to U7 :ref:`here <u6-namespaces>`.
 

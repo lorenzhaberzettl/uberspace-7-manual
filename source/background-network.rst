@@ -188,7 +188,7 @@ Impact on users
 ===============
 
 While this architecture shouldn't restrict you in any way (ping us at hallo@uberspace.de,
-if it does!), there are few things to watch out for:
+if it does!), there are a few things to watch out for:
 
 * You have your own separate ``127.0.0.1``. If your service listens on that, it
   is only reachable within your uberspace. If you want to make use of our
